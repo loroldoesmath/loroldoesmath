@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laurel or @loroldoesmath
-- 🌌 Background: B.A. in Mathematics from UC Berkeley, Caltech Cosmology Research Fellow, AWS, Etc., Etc.
-- 👀 Interests: game theory, logic, computability, AI, equitable access to STEM education, number theory, space.
-- 🔨 Current Projects: Fire Arcade, Learning Rainbow Education
+- 🌌 Background: B.A. in Mathematics from UC Berkeley, Caltech Cosmology Research Fellow, AWS, Outlier AI, Conexus AI, Etc., Etc.
+- 👀 Interests: ML-forward EEG analysis, game theory, logic & computability, AI, equitable access to STEM education, space.
+- 🔨 Current Projects: CNN-Based Youth Seizure Detection, Fire Arcade, Learning Rainbow Education
 - 📫 Email: laurelweber@berkeley.edu
