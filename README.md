@@ -2,5 +2,5 @@
 - 🌌 Background: B.A. in Mathematics from UC Berkeley, Caltech Cosmology Research Fellow, AWS, Outlier AI, Conexus AI, Etc., Etc.
 - 👀 Interests: ML-forward EEG analysis, game theory, logic & computability, AI, equitable access to STEM education, space.
 - 🚀 Current Roles: Data Program Lead @ Mountainland Technical, Mathematics Instructor @ SLCC
-- 🔨 Current Projects: CNN-Based Youth Seizure Detection, Fire Arcade, Learning Rainbow Education
+- 🔨 Current Projects: CNN-Based Youth Seizure Detection, Learning Rainbow Education
 - 📫 Email: laurelweber@berkeley.edu
