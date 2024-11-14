@@ -1,4 +1,5 @@
 <h3 align="left">About Me:</h3>
+
 - 👋 Hi, I’m Laurel or @loroldoesmath
 - 🌌 Background: B.A. in Mathematics from UC Berkeley, Caltech Cosmology Research Fellow, AWS, Outlier AI, Conexus AI, Etc., Etc.
 - 👀 Current Interests: ML-forward EEG analysis, game theory, logic & computability, equitable access to STEM education, space.
